@@ -16,4 +16,4 @@ Il n'y a pas de versions, les devoirs sont dans la partie "Releases"
 
 ## License
 
-Ce projet est licensié sous la MIT License - Voir [LICENSE.md](LICENSE.md) pour plus de détails.
+Ce projet est licensié sous la MIT License - Voir [LICENSE](LICENSE) pour plus de détails.
