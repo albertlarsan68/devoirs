@@ -10,7 +10,7 @@ Il n'est pas possible de contribuer à ce repo.
 
 Il n'y a pas de versions, les devoirs sont dans la partie "Releases"
 
-## Authors
+## Auteurs
 
 * **Anicet OTTMANN--FLORENTIN** - *Tout le travail*
 
